@@ -1,3 +1,3 @@
-document.body.addEventListener('keyup', (event)=> {
+document.body.addEventListener('keyup', (event)=>{
     console.log(event.code)
 })
